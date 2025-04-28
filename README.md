@@ -6,4 +6,4 @@ Full-review는 노션 블로그에 업로드하며 github에는 요약본 정리
 
 # Section 1 : Frontier LLMs
 
-1.GPT1 : (./papers/GPT1.md)
+[1.GPT1](./papers/GPT1.md)
